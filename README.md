@@ -1,7 +1,7 @@
 # Welcome bot: A Probot App
 
 **Description:**
-- This is the project to learn github quiclky.
+- This is the project to learn github quiclky using bot.
 
 ## What it does
 
