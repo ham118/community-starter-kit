@@ -1,10 +1,17 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+**DESCRIPTION:**
+- This is the project to learn github quiclky.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- This is bot learning suit so it shows next learning level automatically after previous level completed.
+
+**FEATURES:**
+
+Levels,
+- PR
+- Cloning
 
 ## Getting started
 
@@ -53,3 +60,4 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+
