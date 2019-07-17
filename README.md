@@ -1,17 +1,11 @@
-# welcome bot: A Probot App
+# Welcome bot: A Probot App
 
-**DESCRIPTION:**
+**Description:**
 - This is the project to learn github quiclky.
 
 ## What it does
 
 - This is bot learning suit so it shows next learning level automatically after previous level completed.
-
-**FEATURES:**
-
-Levels,
-- PR
-- Cloning
 
 ## Getting started
 
